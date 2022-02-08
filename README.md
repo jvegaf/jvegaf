@@ -24,8 +24,24 @@
 
 
 ### :octocat: My GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jvegaf&show_icons=true&&theme=algolia)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jvegaf&theme=algolia)
+<p align="center">
+    <a href="https://github.com/jvegaf">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvegaf&show_icons=true&&theme=algolia" />
+    </a>
+</p>
 
-![jvegaf's github streak](https://github-readme-streak-stats.herokuapp.com/?user=jvegaf&theme=algolia)
+<p align="center">
+    <a href="https://github.com/jvegaf">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvegaf&theme=algolia" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/jvegaf">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jvegaf&theme=algolia" />
+    </a>
+</p>
+
+
+
+
